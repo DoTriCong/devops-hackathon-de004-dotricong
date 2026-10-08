@@ -10,3 +10,6 @@ cổng Nigix: 8080
 ##2. Môi trường triển khai
 ( Hệ điều hàng: Ubuntu, phiên bản Nginx: 1.28.3, Git: 2.53.0, nơi chạy: may ao VPS)
 
+## 4.Cấu hình Nginx
+Port: 8080 cổng công khai
+sever_name: tricong
